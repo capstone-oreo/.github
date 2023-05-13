@@ -3,3 +3,17 @@ https://ionized-philosophy-330.notion.site/dc4ffffb452b4eda8b3d4ff4085c6ef3
 
 ## 상세 설계서
 https://ionized-philosophy-330.notion.site/d116260279ed433fbf7493989bf74c90
+
+## GitHub flow branch 전략
+- Main(master) branch, feature branch 두 개의 branch로 운영
+- Feature branch에서 작업 후 main branch에 merge한다.(pull request)
+
+### 사용 이유
+- 다른 branch 전략에 비해 간단하다.
+- 소규모 작업이기에 복잡한 브랜치 전략이 필요하지 않다.
+
+### Branch convention
+- Branch 이름은 kebab-case를 사용한다.
+- 역할을 쉽게 알아볼 수 있도록 feat-login, fix-split-voice 처럼 기능을 구분하도록 맨 앞에 단어를 다음과 같은 단어를 사용한다. 
+  - feat, fix, setting, chore, refactor, …
+- 작업하기 전에 issue를 먼저 작성한다.
