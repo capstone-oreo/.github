@@ -4,6 +4,9 @@ https://ionized-philosophy-330.notion.site/dc4ffffb452b4eda8b3d4ff4085c6ef3
 ## 상세 설계서
 https://ionized-philosophy-330.notion.site/d116260279ed433fbf7493989bf74c90
 
+## 최종 보고서
+https://ionized-philosophy-330.notion.site/f7713eae182c494baba5e68ee137f9a3?pvs=4
+
 ## GitHub flow branch 전략
 - Main(master) branch, feature branch 두 개의 branch로 운영
 - Feature branch에서 작업 후 main branch에 merge한다.(pull request)
