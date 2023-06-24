@@ -1,3 +1,6 @@
+# 발료 마루
+발표 마루는 음성 분석을 통해 발표 능력을 향상시키도록 도와주는 웹 어플리케이션입니다.
+
 ## 요구사항 명세서
 https://ionized-philosophy-330.notion.site/dc4ffffb452b4eda8b3d4ff4085c6ef3
 
